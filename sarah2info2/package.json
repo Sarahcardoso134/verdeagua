@@ -1,0 +1,15 @@
+{
+  "name": "sarah2info2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server-relationship": "^0.14.5"
+  }
+}
